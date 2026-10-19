@@ -1,9 +1,5 @@
 package linearsearch;
 
-//----------------------------------------------------------------------------------------------
-//User Name: RawanQader
-//Id 445013919
-
 // Java code for linearly search x in arr[]. If x
 
 // is present then return its location, otherwise
